@@ -1,4 +1,3 @@
-
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈•人机玩DOORS还要瓜"; Text ="有史以来最大的更新.升级体验"; Duration = 2; })
 wait(1)
 local OrionLib = loadstring(game:HttpGet("https://pastebin.com/raw/FUEx0f3G"))()
